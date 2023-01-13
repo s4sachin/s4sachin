@@ -42,7 +42,3 @@ I'm a JavaScript Developer with passion for Building products. Before diving int
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/s4sachin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s4sachin&stroke=14b8a6&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=14b8a6&currStreakLabel=0891b2&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
