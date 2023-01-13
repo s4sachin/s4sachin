@@ -8,7 +8,7 @@ I'm a JavaScript Developer with passion for Building products. Before diving int
 
 * 🌍  I'm based in Achalpur, Maharashtra (India)
 * 🧠  I'm learning everything JavaScript
-* 🤝  I'm open to collaborating on Web Development, Image Processing and
+* 🤝  I'm open to collaborating on Web Development, Image Processing and Life
 * ⚡  I secretly aspire to lead an Ascetic Life.
 
 ### Skills
