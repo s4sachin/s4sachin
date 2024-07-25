@@ -6,10 +6,10 @@ Developer. Tinkerer. Maker.
 
 I'm a JavaScript Developer with passion for Building products. Before diving into Software Developement, I have worked extensively in Ideation and Problem solving via Prototyping and Digital Fabrication. I enjoy building Physical as well as Digital products. I spend my spare time with my Dog.
 
-* 🌍  I'm based in Achalpur, Maharashtra (India)
-* 🧠  I'm learning everything JavaScript
+* 🌍  I'm based in Mumbai, Maharashtra (India)
+* 🧠  I'm learning everything JavaScript. Started from Front-end, now diving into Full Stack.
 * 🤝  I'm open to collaborating on Web Development, Image Processing and Life
-* ⚡  I secretly aspire to lead an Ascetic Life.
+* ⚡  I aspire to lead an Ascetic Life.
 
 ### Skills
 
